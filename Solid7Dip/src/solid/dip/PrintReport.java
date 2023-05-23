@@ -1,8 +1,11 @@
-package solid.dip;
+package src.solid.dip;
+
+import src.solid.dip.Print;
 
 import java.util.List;
 
-public class PrintReport {
+public class PrintReport implements Print {
+    @Override
     public void output(List<ReportItem> items) {
         System.out.println("Output to printer");
         for (ReportItem item : items) {

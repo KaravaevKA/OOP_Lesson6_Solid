@@ -1,4 +1,6 @@
-package solid.dip;
+package src.solid.dip;
+
+import src.solid.dip.Print;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,8 +15,7 @@ public class Report{
         items.add(new ReportItem("Second", (float)6));
     }
 
-    public void output(){
-        PrintReport reportPrint = new PrintReport();
+    public void output(Print reportPrint){
         reportPrint.output(items);
     }
 }

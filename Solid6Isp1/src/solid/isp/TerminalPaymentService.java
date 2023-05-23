@@ -1,8 +1,9 @@
-package solid.isp;
+package src.solid.isp;
 
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
-public class TerminalPaymentService implements Payable {
+
+
+public class TerminalPaymentService implements PayableTerminal {
 
     @Override
     public void payWebMoney(int amount) {
@@ -12,10 +13,5 @@ public class TerminalPaymentService implements Payable {
     @Override
     public void payCreditCard(int amount) {
         System.out.printf("Terminal pay by credit card %d\n", amount);
-    }
-
-    @Override
-    public void payPhoneNumber(int amount) {
-        throw new NotImplementedException();
     }
 }

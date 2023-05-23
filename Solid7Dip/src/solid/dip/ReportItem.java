@@ -1,4 +1,4 @@
-package solid.dip;
+package src.solid.dip;
 
 public class ReportItem{
     private String description;

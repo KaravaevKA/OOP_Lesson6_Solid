@@ -1,7 +1,6 @@
-package solid;
+package src.solid;
 
-import solid.isp.InternetPaymentService;
-import solid.isp.TerminalPaymentService;
+import src.solid.isp.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,6 +12,5 @@ public class Main {
         TerminalPaymentService terminalService = new TerminalPaymentService();
         terminalService.payWebMoney(10);
         terminalService.payCreditCard(10);
-        terminalService.payPhoneNumber(10);
     }
 }

@@ -1,4 +1,4 @@
-package solid.isp;
+package src.solid.isp;
 
 public class InternetPaymentService implements Payable{
     @Override
