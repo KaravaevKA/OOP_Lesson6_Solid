@@ -1,4 +1,7 @@
-public class User{
+import out.production.HomeWork.Reporter;
+import out.production.HomeWork.Saver;
+
+public class User implements Saver, Reporter {
 	private String name;
 	
 	public User(String name){

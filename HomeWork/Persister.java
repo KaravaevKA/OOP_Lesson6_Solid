@@ -1,4 +1,6 @@
-public class Persister{
+import out.production.HomeWork.Saver;
+
+public class Persister implements Saver {
 	private User user;
 	
 	public Persister(User user){
