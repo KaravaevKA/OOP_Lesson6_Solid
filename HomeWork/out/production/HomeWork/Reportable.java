@@ -1,5 +1,5 @@
 package out.production.HomeWork;
 
-public interface Reporter {
+public interface Reportable {
     public void report();
 }

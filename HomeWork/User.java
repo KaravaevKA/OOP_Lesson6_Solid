@@ -1,7 +1,4 @@
-import out.production.HomeWork.Reporter;
-import out.production.HomeWork.Saver;
-
-public class User implements Saver, Reporter {
+public class User  {
 	private String name;
 	
 	public User(String name){
@@ -10,14 +7,5 @@ public class User implements Saver, Reporter {
 	
 	public String getName(){
 		return name;
-	}
-	
-	public void save(){
-		Persister persister = new Persister(this);
-		persister.save();
-	}
-	
-	public void report(){
-		System.out.println("Report for user: " + name);
 	}
 }

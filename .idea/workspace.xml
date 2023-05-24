@@ -4,35 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a32f586-4b68-47c5-9025-8c74db9bb25c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7a32f586-4b68-47c5-9025-8c74db9bb25c" name="Changes" comment="Homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/Persister.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Persister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/Reported.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/Reported.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid2Srp2/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/RightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/OrderCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/OrderCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/OrderBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/OrderBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/InternetPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/InternetPaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/Payable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/TerminalPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/TerminalPaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/PrintReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/PrintReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/ReportItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/ReportItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Reporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/Reportable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,6 +46,9 @@
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="solid.dip" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="out.production.HomeWork" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -122,6 +102,21 @@
       <option name="presentableId" value="Default" />
       <updated>1670342361684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Classwork">
+      <created>1684872585789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684872585789</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework">
+      <created>1684872620984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684872620984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +129,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classwork" />
+    <MESSAGE value="Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
   </component>
 </project>
